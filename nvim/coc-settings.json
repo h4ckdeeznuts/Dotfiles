@@ -1,0 +1,8 @@
+{
+    "suggest.noselect": false,
+    "python.jediEnabled": false,
+    "python.workspaceSymbols.ctagsPath": "/usr/bin/ctags",
+    "python.formatting.blackPath": "/usr/bin/black",
+    "python.formatting.provider": "black",
+    "python.linting.pydocstyleEnabled": false
+}
